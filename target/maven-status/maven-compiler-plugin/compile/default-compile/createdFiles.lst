@@ -1,0 +1,4 @@
+com\makotomiyamoto\ssdi\parser\GsonParsable.class
+com\makotomiyamoto\ssdi\inventory\SafeItemStack.class
+error\NativeStructBuildException.class
+com\makotomiyamoto\ssdi\Main.class
